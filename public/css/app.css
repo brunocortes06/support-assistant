@@ -26,7 +26,7 @@ div {
   width: 3.125rem;
   height: 3.125rem;
   border-radius: 1.5625rem;
-  background: #AB72F8;
+  background: #0E3ED3;
   top: 0.3125rem;
   right: 0.3125rem;
   line-height: 3.125rem;
@@ -86,7 +86,7 @@ div {
 .user-typing {
   flex: 0;
   border: none;
-  color: #8d25e8;
+  color: #0E3ED3;
   margin: 0.75rem;
   font-size: 15;
   font-family: Helvetica Neue for IBM, Helvetica Neue, Helvetica, Arial, sans-serif;
@@ -134,7 +134,7 @@ div {
   color: #fff;
   letter-spacing: 0.015rem;
   line-height: 1.3125rem;
-  background: #00B4A0;
+  background: #FF9F33;
   border-radius: 1.25rem;
   border-bottom-right-radius: 0;
   text-align: left;
@@ -160,7 +160,7 @@ div {
   right: 0;
   height: 0.375rem;
   width: 0.5rem;
-  background: #1cb3a0;
+  background: #FF9F33;
 }
 
 .from-user .message-inner:after {
@@ -194,7 +194,7 @@ div {
 
 .from-watson.latest.top p:before {
   content: ".";
-  color: #9855D4;
+  color: #0E3ED3;
   background-image: url("../img/marker_image.png");
   background-size: 0.3125rem 1.3125rem;
   position: absolute;
@@ -222,7 +222,7 @@ div {
 }
 
 #textInput.underline {
-  border-bottom: 2px solid #00B4A0;
+  border-bottom: 2px solid #0E3ED3;
 }
 
 ::-webkit-input-placeholder {
@@ -316,7 +316,7 @@ pre {
 }
 
 .boolean, .null, .number {
-  color: #CE8EFF;
+  color: #0E3ED3;
 }
 
 .key {
@@ -448,13 +448,13 @@ html{
 }
 
 .options-list {
-  color: #8d25e8;
+  color: #0E3ED3;
   cursor: pointer;
 }
 
 .options-button {
   color: white;
-  background-color: #8d25e8;
+  background-color: #0E3ED3;
   border-radius: 6px;
   padding-bottom: 4px;
   padding-top: 4px;
